@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 😄 I'm Alonso Astroza Tagle.
 
-* I'm the Deputy Director of Industry Partnerships @  Data Science Institute of Universidad del Desarrollo.
+* I'm the Deputy Director of Industry Partnerships @  [Data Science Institute of Universidad del Desarrollo](https://ingenieria.udd.cl/persona/alonso-astroza-tagle/).
 * Independent Contributor: [GeoVictoria](https://www.geovictoria.com) - [Defontana](https://www.defontana.com) - [Discolab](https://www.discolab.cl).
-* Associate Professor of the Data Science Master’s program @ Universidad del Desarrollo.
+* Lecturer of the [Data Science Master’s program @ Universidad del Desarrollo](https://ingenieria.udd.cl/postgrado/magister-en-data-science/profesores/).
 * Electrical Engineer @ Universidad de Chile.
 
-## Contact
+### Contact
 
 * alonsoastroza@gmail.com - [github](https://github.com/aastroza) - [linkedin](https://www.linkedin.com/in/aastrozacl/) - [twitter](https://twitter.com/aastroza)
 
-## Personal
+### Personal
 
 * Things I'm passionate about: AI, Data Products, Python, padel, crossfit, keto diet, videogames.
 * I have a [twin brother](https://sastroza.cl/).
