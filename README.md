@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/aastroza/aastroza/blob/main/README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/aastroza/aastroza/blob/main/README.es.md)
+
 😄 I'm Alonso Astroza Tagle.
 
 * I'm the Deputy Director of Industry Partnerships @  [Data Science Institute of Universidad del Desarrollo](https://ingenieria.udd.cl/persona/alonso-astroza-tagle/).
