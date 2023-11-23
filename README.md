@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Contact
 
-* alonsoastroza@gmail.com - [github](https://github.com/aastroza) - [linkedin](https://www.linkedin.com/in/aastrozacl/) - [twitter](https://twitter.com/aastroza)
+* alonsoastroza@gmail.com - [linkedin](https://www.linkedin.com/in/aastrozacl/) - [twitter](https://twitter.com/aastroza)
 
 ### Personal
 
