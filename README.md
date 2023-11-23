@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 * I have a [twin brother](https://sastroza.cl/).
 * I'm from Santiago, Chile, South America.
 
+***
+
 ### ¡Hola! 👋
 
 😄 Soy Alonso Astroza Tagle.
@@ -38,7 +40,7 @@ Here are some ideas to get you started:
 * Soy Subdirector de Alianzas con Empresas en el [Instituto de Ciencia de Datos de la Universidad del Desarrollo](https://ingenieria.udd.cl/persona/alonso-astroza-tagle/).
 * Contribuyo en: [GeoVictoria](https://www.geovictoria.com) - [Defontana](https://www.defontana.com) - [Discolab](https://www.discolab.cl).
 * Enseño en el [Magister de Ciencia de Datos en la Universidad del Desarrollo](https://ingenieria.udd.cl/postgrado/magister-en-data-science/profesores/).
-* Ingeniero Electrico de la Universidad de Chile.
+* Ingeniero Eléctrico de la Universidad de Chile.
 
 ### Contacto
 
@@ -46,6 +48,6 @@ Here are some ideas to get you started:
 
 ### Personal
 
-* Cosas que me apasionan: AI, Productos de Datos, Python, padel, crossfit, keto diet, videogames.
+* Cosas que me apasionan: AI, Productos de Datos, Python, padel, crossfit, dieta keto, videojuegos.
 * Tengo un [hermano gemelo](https://sastroza.cl/).
-* Soy de Santiago, Chile, Sudamerica.
+* Soy de Santiago, Chile, Sudamérica.
