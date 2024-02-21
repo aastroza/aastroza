@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 ### Recent Activities
 
-- [February 2024] 💡 I'm currently working with [Subconscious.ai](https://www.subconscious.ai/) to help build an AI system for Causal Market Research. It's my first time working with Langchain's [LCEL](https://python.langchain.com/docs/expression_language/), and I've managed to shift the whole query process for LLMs into this new framework. 
+- [February 2024] 💡 I'm currently working with [Subconscious.ai](https://www.subconscious.ai/) to help build an AI Copilot for Causal Market Research. It's my first time working with Langchain's [LCEL](https://python.langchain.com/docs/expression_language/), and I've managed to shift the whole query process for LLMs into this new framework. 
 - [January 2024] 🌌 I recently taught an intensive data science workshop titled ["Orbiting Jupiter and Landing on Earth: A Journey in GitHub Towards Practical and Collaborative Data Science"](https://aastroza.github.io/github/introduccion/). This course focused on transforming the way students approach data science, shifting from solitary projects in Jupyter Notebook to a more collaborative and practical approach, ready for integration into real software environments.
