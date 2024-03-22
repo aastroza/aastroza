@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/aastroza/aastroza/blob/main/README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/aastroza/aastroza/blob/main/README.es.md)
 
-😄 I'm Alonso Astroza Tagle. [This is my resume](https://docs.google.com/document/d/13okWpdBR1MHx5CBEjVBauqjO55Rv0ERR/edit?usp=sharing&ouid=117898761764034952123&rtpof=true&sd=true).
+😄 I'm Alonso Astroza Tagle. [This is my resume](https://docs.google.com/document/d/1wxtLNsBQYz-peTrHwgZdpdJh3xIa_v-jNS0JNXj7tUo/edit?usp=sharing).
 
 * I'm the Deputy Director of Industry Partnerships @  [Data Science Institute of Universidad del Desarrollo](https://ingenieria.udd.cl/persona/alonso-astroza-tagle/).
 * Independent Contributor: [GeoVictoria](https://www.geovictoria.com) - [Defontana](https://www.defontana.com) - [Discolab](https://www.discolab.cl) - [Subconscious.ai](https://www.subconscious.ai/).
