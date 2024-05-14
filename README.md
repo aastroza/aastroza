@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 ### Recent Activities
 
+- **[May 2024]** 💬 Released [Chatstract](https://github.com/aastroza/chatstract), a tool for progressively extracts structured information from multi-turn user chats using pydantic schemas and LLMs. Powered by [OpenAI API](https://github.com/openai/openai-python) + [Instructor](https://github.com/jxnl/instructor/).
 - **[April 2024]**
   - 📚 Released the [Repository Template for Course Websites](https://github.com/aastroza/course-template), a tool for educators to easily create and manage course sites using GitHub Pages, powered by GitHub Actions and Material for MkDocs. I realized I was repeating this process every time I created a course, so why not automate it a bit?
   - 🚀 Launched a [GitHub project](https://github.com/aastroza/rss-feeds-scraper) to scrape RSS feeds into daily json files, driven by the need for a quick dataset to grasp "what's happening in the country." Automated with GitHub Actions, it runs every 24 hours. This is part of a larger project—stay tuned.
