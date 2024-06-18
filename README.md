@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Recent Activities
 
-- **[June 2024]** 😂 Released [Chilean Humor](https://github.com/aastroza/chilean-humor), a database to track the history of chilean humor.
+- **[June 2024]** 😂 Released [Datarisas](https://github.com/aastroza/chilean-humor), a database to track the history of chilean humor.
 - **[May 2024]** 💬 Released [Chatstract](https://github.com/aastroza/chatstract), a tool for progressively extracts structured information from multi-turn user chats using pydantic schemas and LLMs. Powered by [OpenAI API](https://github.com/openai/openai-python) + [Instructor](https://github.com/jxnl/instructor/).
 - **[April 2024]**
   - 📚 Released the [Repository Template for Course Websites](https://github.com/aastroza/course-template), a tool for educators to easily create and manage course sites using GitHub Pages, powered by GitHub Actions and Material for MkDocs. I realized I was repeating this process every time I created a course, so why not automate it a bit?
