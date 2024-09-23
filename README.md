@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 ### Recent Activities
 
+- **[August 2024]** 🍲 [Carbonada](https://carbonada.cl/) is an AI-powered educational game that helps users, especially children, learn about their carbon footprint in a fun, interactive way. Using GPT-4 for carbon estimation, the game simulates creating a dish where each ingredient adds to the total footprint. If the carbon limit is exceeded, the dish "explodes," teaching users the impact of their choices. The [project](https://github.com/aastroza/carbonada) also offers a public API for calculating carbon footprints, making it a versatile tool for both education and analysis.
 - **[June 2024]**
   - 🏆 [**Beated GPT-4 with Open Source**](https://blog.dottxt.co/oss-v-gpt4.html). Thanks to the work I began with [my benchmark](https://alonsoastroza.com/posts/structured-generation-benchmark/) and the subsequent collaboration with the [Outlines](https://github.com/outlines-dev/outlines) community, we successfully outperformed the best-performing GPT-4 model at a task that OpenAI essentially invented: *function calling*.
   - 😂 Released [Datarisas](https://github.com/aastroza/chilean-humor), a database to track the history of chilean humor.
