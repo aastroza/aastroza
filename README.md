@@ -28,12 +28,6 @@ Here are some ideas to get you started:
 
 * alonsoastroza@gmail.com - [linkedin](https://www.linkedin.com/in/aastrozacl/) - [twitter](https://twitter.com/aastroza)
 
-### Personal
-
-* Things I'm passionate about: AI, Data Products, Python, padel, crossfit, keto diet, videogames.
-* I have a [twin brother](https://sastroza.cl/).
-* I'm from Santiago, Chile, South America.
-
 ### Recent Activities
 
 - **[August 2024]** 🍲 [Carbonada](https://carbonada.cl/) is an AI-powered educational game that helps users, especially children, learn about their carbon footprint in a fun, interactive way. Using GPT-4 for carbon estimation, the game simulates creating a dish where each ingredient adds to the total footprint. If the carbon limit is exceeded, the dish "explodes," teaching users the impact of their choices. The [project](https://github.com/aastroza/carbonada) also offers a public API for calculating carbon footprints, making it a versatile tool for both education and analysis.
