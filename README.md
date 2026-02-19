@@ -30,16 +30,17 @@ Here are some ideas to get you started:
 
 ### Projects
 
+- 😂 **[Datarisas](https://github.com/aastroza/chilean-humor)** — Dataset tracking Chilean humor.  
 - 🇨🇱 **[shiaaa.cl](https://shiaaa.cl/)** — Crowdsourcing platform for Chilean Spanish speech data. ([repo](https://github.com/idsudd/shiaaa))  
 - 🎧 **[Open ASR Leaderboard CL](https://huggingface.co/spaces/idsudd/open_asr_leaderboard_cl)** — Benchmark of ASR models on real Chilean Spanish audio.  
 - 📺 **[tvtxt](https://github.com/aastroza/tvtxt)** — Real-time AI pipeline that converts live TV into movie scripts.  
 - 🚀 **[IADevs](https://www.linkedin.com/company/iadevsconf)** — Community building real-world AI systems.  
-- 🍲 **[Carbonada](https://carbonada.cl/)** — Educational game to learn carbon footprint through cooking. ([repo](https://github.com/aastroza/carbonada))  
+- 🍲 **[Carbonada](https://carbonada.cl/)** — Educational game to learn carbon footprint through cooking. ([repo](https://github.com/aastroza/carbonada))
+- 📖 **[Explorador Constitucional](https://github.com/aastroza/llm-search-discolab)** — AI engine to explore and compare constitutional texts.
 - 🏆 **[Structured Generation Benchmark](https://alonsoastroza.com/posts/structured-generation-benchmark/)** — Open benchmark that beat GPT-4 at structured generation.  
-- 😂 **[Datarisas](https://github.com/aastroza/chilean-humor)** — Dataset tracking Chilean humor.  
 - 💬 **[Chatstract](https://github.com/aastroza/chatstract)** — Extract structured data from conversations using LLMs.  
 - 📚 **[Course Website Template](https://github.com/aastroza/course-template)** — Template to create and deploy course sites.  
 - 📰 **[RSS Feeds Scraper](https://github.com/aastroza/rss-feeds-scraper)** — Automated pipeline collecting daily RSS datasets.  
 - 🧠 **[AI Copilot for Market Research](https://www.subconscious.ai/)** — LLM assistant for causal market research workflows.  
 - 🌌 **[GitHub Data Science Workshop](https://idsudd.github.io/github-workshop/)** — Workshop on collaborative, production-ready data science.  
-- 📖 **[Explorador Constitucional](https://github.com/aastroza/llm-search-discolab)** — AI engine to explore and compare constitutional texts.
+
