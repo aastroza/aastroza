@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 * I'm the Deputy Director of Industry Partnerships @  [Data Science Institute of Universidad del Desarrollo](https://ingenieria.udd.cl/persona/alonso-astroza-tagle/).
 * Independent Contributor: [GeoVictoria](https://www.geovictoria.com) - [Defontana](https://www.defontana.com) - [Discolab](https://www.discolab.cl).
 * Lecturer of the [Data Science Master’s program @ Universidad del Desarrollo](https://ingenieria.udd.cl/postgrado/magister-en-data-science/profesores/).
+* Technical Ambassador @ [Kotoba Technologies](https://github.com/kotoba-tech).
 * Electrical Engineer @ Universidad de Chile.
 
 ### Contact
