@@ -42,6 +42,5 @@ Here are some ideas to get you started:
 - 💬 **[Chatstract](https://github.com/aastroza/chatstract)** — Extract structured data from conversations using LLMs.  
 - 📚 **[Course Website Template](https://github.com/aastroza/course-template)** — Template to create and deploy course sites.  
 - 📰 **[RSS Feeds Scraper](https://github.com/aastroza/rss-feeds-scraper)** — Automated pipeline collecting daily RSS datasets.  
-- 🧠 **[AI Copilot for Market Research](https://www.subconscious.ai/)** — LLM assistant for causal market research workflows.  
 - 🌌 **[GitHub Data Science Workshop](https://idsudd.github.io/github-workshop/)** — Workshop on collaborative, production-ready data science.  
 
