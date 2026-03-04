@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Projects
 
-- 😂 **[Datarisas](https://github.com/aastroza/chilean-humor)** — Dataset tracking Chilean humor.  
+- 😂 **[Datarisas](https://datarisas.cl/)** — Dataset tracking Chilean humor. ([repo](https://github.com/aastroza/chilean-humor)) 
 - 🇨🇱 **[shiaaa.cl](https://shiaaa.cl/)** — Crowdsourcing platform for Chilean Spanish speech data. ([repo](https://github.com/idsudd/shiaaa))  
 - 🎧 **[Open ASR Leaderboard CL](https://huggingface.co/spaces/idsudd/open_asr_leaderboard_cl)** — Benchmark of ASR models on real Chilean Spanish audio.  
 - 📺 **[tvtxt](https://github.com/aastroza/tvtxt)** — Real-time AI pipeline that converts live TV into movie scripts.  
