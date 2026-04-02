@@ -17,17 +17,13 @@ Here are some ideas to get you started:
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/aastroza/aastroza/blob/main/README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/aastroza/aastroza/blob/main/README.es.md)
 
-😄 I'm Alonso Astroza Tagle. [This is my resume](https://docs.google.com/document/d/1wxtLNsBQYz-peTrHwgZdpdJh3xIa_v-jNS0JNXj7tUo/edit?usp=sharing).
+😄 I'm Alonso Astroza Tagle. [This is my resume](https://docs.google.com/document/d/1wxtLNsBQYz-peTrHwgZdpdJh3xIa_v-jNS0JNXj7tUo/edit?usp=sharing) and [this is my personal website](https://www.alonsoastroza.com/).
 
 * I'm the Deputy Director of Industry Partnerships @  [Data Science Institute of Universidad del Desarrollo](https://ingenieria.udd.cl/persona/alonso-astroza-tagle/).
 * Independent Contributor: [GeoVictoria](https://www.geovictoria.com) - [Defontana](https://www.defontana.com) - [Discolab](https://www.discolab.cl).
 * Lecturer of the [Data Science Master’s program @ Universidad del Desarrollo](https://ingenieria.udd.cl/postgrado/magister-en-data-science/profesores/).
 * Technical Ambassador @ [Kotoba Technologies](https://github.com/kotoba-tech).
 * Electrical Engineer @ Universidad de Chile.
-
-### Contact
-
-* alonsoastroza@gmail.com - [linkedin](https://www.linkedin.com/in/aastrozacl/) - [twitter](https://twitter.com/aastroza)
 
 ### Projects
 
